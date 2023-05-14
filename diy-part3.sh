@@ -65,4 +65,8 @@ git clone https://github.com/AK201314/luci-app-cpu-perf.git package/luci-app-cpu
 
 git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
 
+git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
+git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
+#git clone https://github.com/wiwizcom/WiFiPortal package/WiFiPortal
+
 #mv package/WiFiPortal/eqos-master-wiwiz/files/po/zh-cn package/WiFiPortal/eqos-master-wiwiz/files/po/zh_Hans
