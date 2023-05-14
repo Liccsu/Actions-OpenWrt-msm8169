@@ -71,12 +71,6 @@ jobs:
     - name: 拉取源码插件源
       run: cd openwrt && ./scripts/feeds update -a
       
-    - name: 增加常用插件
-      run: |
-        cd openwrt
-        git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
-        git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
-        #git clone https://github.com/wiwizcom/WiFiPortal package/WiFiPortal
         
         
     - name: 安装源码插件源
