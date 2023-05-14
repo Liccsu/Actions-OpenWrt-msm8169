@@ -60,8 +60,8 @@ git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
 # 添加cpu温度监控
 git clone https://github.com/AK201314/luci-app-temp-status.git package/luci-app-temp-status
 git clone https://github.com/AK201314/luci-app-cpu-perf.git package/luci-app-cpu-perf
-git clone https://github.com/AK201314/luci-app-cpu-status.git package/luci-app-cpu-status
-git clone https://github.com/AK201314/luci-app-cpu-status-mini.git package/luci-app-cpu-status-mini
+#git clone https://github.com/AK201314/luci-app-cpu-status.git package/luci-app-cpu-status
+#git clone https://github.com/AK201314/luci-app-cpu-status-mini.git package/luci-app-cpu-status-mini
 
 git clone https://github.com/zzsj0928/luci-app-pushbot package/luci-app-pushbot
 
