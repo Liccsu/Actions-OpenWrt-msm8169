@@ -57,9 +57,9 @@ git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
 #git clone https://github.com/AK201314/luci-app-temp-status.git package/luci-app-temp-status
 
 git clone https://github.com/AK201314/luci-app-temp-status.git
-git clone https://github.com/AK201314/luci-app-cpu-perf.git
-git clone https://github.com/AK201314/luci-app-cpu-status.git
-git clone https://github.com/AK201314/luci-app-cpu-status-mini.git
+#git clone https://github.com/AK201314/luci-app-cpu-perf.git
+#git clone https://github.com/AK201314/luci-app-cpu-status.git
+#git clone https://github.com/AK201314/luci-app-cpu-status-mini.git
 
 
 
